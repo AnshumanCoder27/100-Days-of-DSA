@@ -49,6 +49,7 @@ int main(){
 
     }
     
+    
     (isFound == 1)?printf("Found at index %d\nComparisons = %d",index,count):printf("Not Found");
     return 0;
 
